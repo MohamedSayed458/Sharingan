@@ -1,6 +1,6 @@
 # Sharingan
 Bash Script automates the recon process 
-collect subdomains, scan ports, collect links from web archive and more
+collect subdomains, scan ports, collect links from web archive, create custom wordlists for better directory/parameter brute forcing
 
 ## Installing
 ```
