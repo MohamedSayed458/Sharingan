@@ -18,7 +18,7 @@ chmod +x Sharingan.sh
 
 
 ### Tools
-there are some tools you need to install in order to run the script
+You need to install some tools in order to use this script:
 [SubEnum](https://github.com/bing0o/SubEnum)
 [httprobe](https://github.com/tomnomnom/httprobe)
 [waybackurls](https://github.com/tomnomnom/waybackurls)
