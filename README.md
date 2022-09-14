@@ -2,17 +2,21 @@
 Bash Script automates the recon process 
 collect subdomains, scan ports, collect links from web archive, create custom wordlists for better directory/parameter brute forcing
 
-## Installing
+
+Usage example:
+```
+./Sharingan target.com
+```
+
+Install:
+
 ```
 git clone https://github.com/MohamedSayed458/Sharingan.git
 cd Sharingan
 chmod +x Sharingan.sh
 ```
 
-## Usage
-```
-./Sharingan target.com
-```
+
 ### Tools
 there are some tools you need to install in order to run the script
 [SubEnum](https://github.com/bing0o/SubEnum)
