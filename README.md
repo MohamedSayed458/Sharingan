@@ -29,4 +29,4 @@ there are some tools you need to install in order to run the script
 
 
 ### License
-Mohamed Sayed [@kanike991](https://twitter.com/kanike99)
+Mohamed Sayed [@kanike99](https://twitter.com/kanike99)
