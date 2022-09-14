@@ -2,6 +2,13 @@
 Bash Script automates the recon process 
 collect subdomains, scan ports, collect links from web archive and more
 
+## Installing
+```
+git clone https://github.com/MohamedSayed458/Sharingan.git
+cd Sharingan
+chmod +x Sharingan.sh
+```
+
 ## Usage
 ```
 ./Sharingan target.com
@@ -18,6 +25,7 @@ there are some tools you need to install in order to run the script
 [naabu](https://github.com/projectdiscovery/naabu)
 [eyewitness](https://github.com/FortyNorthSecurity/EyeWitness)
 [gau](https://github.com/lc/gau)
+[uro](https://github.com/s0md3v/uro)
 
 
 ### License
