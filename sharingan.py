@@ -9,7 +9,7 @@ inscope = sys.argv[1]
 with open(inscope, 'r') as file:
 	for line in file.readlines():
 		if "*" in line:
-			target = line[2:] # removing the first two which are *.  so it's:  nflxvideo.net
+			target = line[2:] # removing the first two which are *.  so it's:  target.net
 			print(colored(f"[+] Start Recon for ", 'red'), end='')
 			print(colored(target, "red", attrs=['bold']))
 			subprocess.call(['sharingan', target])
