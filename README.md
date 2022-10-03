@@ -1,11 +1,12 @@
 # Sharingan
-Bash Script automates the recon process 
+Bash Script (with python) automates the recon process 
 collect subdomains, scan ports, collect links from web archive, create custom wordlists for better directory/parameter brute forcing
+you just need to create file with the inscope subdomains
 
 
 Usage example:
 ```
-./Sharingan target.com
+python3 sharingan.py inscope.txt
 ```
 
 Install:
@@ -13,7 +14,8 @@ Install:
 ```
 git clone https://github.com/MohamedSayed458/Sharingan.git
 cd Sharingan
-chmod +x Sharingan.sh
+chmod +x recon.sh
+sudo mv recon.sh /usr/bin/sharingan
 ```
 
 
